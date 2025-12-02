@@ -1,0 +1,72 @@
+{
+  "id": 1998464815,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-01",
+    "date:inception_upper": "2025-12-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AI",
+    "flysfo:date": "2025-12-01",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AI179",
+    "flysfo:gate": "",
+    "flysfo:journey": "BOM-SFO",
+    "flysfo:scheduled_timestamp": 1764651000,
+    "flysfo:timestamp": 1764651000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,19.097810,72.866037,37.617990",
+    "geom:latitude": 28.3579,
+    "geom:longitude": -24.752452999999996,
+    "iata:airline": "AI",
+    "icao:airline": "AIC",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283649,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102555685,
+    "sfomuseum:flight_id": "20251201-A-AIC-179",
+    "sfomuseum:flight_number": [
+      "AIC179",
+      "AI179"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1764691345,
+    "wof:geomhash": "e8aee4e844e89ba8d7a176f852774210",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1998464815,
+        "flight_id": 1998464815
+      }
+    ],
+    "wof:id": 1998464815,
+    "wof:involves": [
+      102527513,
+      102555685,
+      1159283649,
+      -1
+    ],
+    "wof:lastmodified": 1764691345,
+    "wof:name": "AI179 (BOM-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    19.09781,
+    72.866037,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[72.866037,19.09781],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
