@@ -1,0 +1,72 @@
+{
+  "id": 1998480529,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-03",
+    "date:inception_upper": "2025-12-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2025-12-03",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA177",
+    "flysfo:gate": "",
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1764749460,
+    "flysfo:timestamp": 1764749460,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20251203-A-AAL-177",
+    "sfomuseum:flight_number": [
+      "AAL177",
+      "AA177"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1764864049,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1998480529,
+        "flight_id": 1998480529
+      }
+    ],
+    "wof:id": 1998480529,
+    "wof:involves": [
+      102527513,
+      102534365,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1764864049,
+    "wof:name": "AA177 (JFK-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -73.787845,
+    40.643286
+  ],
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
