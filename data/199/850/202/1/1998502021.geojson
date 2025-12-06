@@ -1,0 +1,72 @@
+{
+  "id": 1998502021,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-05",
+    "date:inception_upper": "2025-12-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2025-12-05",
+    "flysfo:estimated_timestamp": 1764961200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS9920",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SMF",
+    "flysfo:scheduled_timestamp": 1764961200,
+    "flysfo:timestamp": 1764961200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
+    "geom:latitude": 38.1517615,
+    "geom:longitude": -121.98042749999999,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102530559,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20251205-D-ASA-9920",
+    "sfomuseum:flight_number": [
+      "ASA9920",
+      "AS9920"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1765037494,
+    "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1998502021,
+        "flight_id": 1998502021
+      }
+    ],
+    "wof:id": 1998502021,
+    "wof:involves": [
+      102530559,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1765037494,
+    "wof:name": "AS9920 (SFO-SMF)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -121.589912,
+    38.685533
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-121.589912,38.685533]],"type":"MultiPoint"}
+}

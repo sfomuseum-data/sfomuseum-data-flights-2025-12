@@ -1,0 +1,72 @@
+{
+  "id": 1998502383,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-05",
+    "date:inception_upper": "2025-12-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2025-12-05",
+    "flysfo:estimated_timestamp": 1765013820,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL335",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DTW",
+    "flysfo:scheduled_timestamp": 1765003500,
+    "flysfo:timestamp": 1765013820,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-83.351709,42.218860",
+    "geom:latitude": 39.918425,
+    "geom:longitude": -102.86132599999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102525635,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20251205-D-DAL-335",
+    "sfomuseum:flight_number": [
+      "DAL335",
+      "DL335"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1765037534,
+    "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1998502383,
+        "flight_id": 1998502383
+      }
+    ],
+    "wof:id": 1998502383,
+    "wof:involves": [
+      102525635,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1765037534,
+    "wof:name": "DL335 (SFO-DTW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -83.351709,
+    42.21886
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}
+}
