@@ -1,0 +1,72 @@
+{
+  "id": 1998531587,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-09",
+    "date:inception_upper": "2025-12-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QR",
+    "flysfo:date": "2025-12-09",
+    "flysfo:estimated_timestamp": 1765312980,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "QR45",
+    "flysfo:gate": "",
+    "flysfo:journey": "DOH-SFO",
+    "flysfo:scheduled_timestamp": 1765318320,
+    "flysfo:timestamp": 1765318320,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
+    "geom:latitude": 18.808995,
+    "geom:longitude": -61.1854715,
+    "iata:airline": "QR",
+    "icao:airline": "QTR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 1729749565,
+    "sfomuseum:flight_id": "20251209-A-QTR-45",
+    "sfomuseum:flight_number": [
+      "QTR45",
+      "QR45"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1765382773,
+    "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1998531587,
+        "flight_id": 1998531587
+      }
+    ],
+    "wof:id": 1998531587,
+    "wof:involves": [
+      102527513,
+      1729749565,
+      1159286153,
+      -1
+    ],
+    "wof:lastmodified": 1765382773,
+    "wof:name": "QR45 (DOH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    0,
+    0,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[0,0],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
