@@ -1,0 +1,72 @@
+{
+  "id": 2014319183,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-16",
+    "date:inception_upper": "2025-12-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2025-12-16",
+    "flysfo:estimated_timestamp": 1765897200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA499",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-BFL",
+    "flysfo:scheduled_timestamp": 1765897200,
+    "flysfo:timestamp": 1765897200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.425802,-119.047271,37.617990",
+    "geom:latitude": 36.521896,
+    "geom:longitude": -120.70910699999999,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527035,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20251216-D-AAL-499",
+    "sfomuseum:flight_number": [
+      "AAL499",
+      "AA499"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1765987731,
+    "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2014319183,
+        "flight_id": 2014319183
+      }
+    ],
+    "wof:id": 2014319183,
+    "wof:involves": [
+      102527035,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1765987731,
+    "wof:name": "AA499 (SFO-BFL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.425802,
+    -119.047271,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.047271,35.425802]],"type":"MultiPoint"}
+}
