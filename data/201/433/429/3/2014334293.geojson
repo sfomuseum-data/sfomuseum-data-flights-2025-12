@@ -1,0 +1,72 @@
+{
+  "id": 2014334293,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-18",
+    "date:inception_upper": "2025-12-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-12-18",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1402",
+    "flysfo:gate": "",
+    "flysfo:journey": "LGA-SFO",
+    "flysfo:scheduled_timestamp": 1766046060,
+    "flysfo:timestamp": 1766046060,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.875778,40.774956",
+    "geom:latitude": 39.196473,
+    "geom:longitude": -98.12336049999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102526001,
+    "sfomuseum:flight_id": "20251218-A-UAL-1402",
+    "sfomuseum:flight_number": [
+      "UAL1402",
+      "UA1402"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1766160478,
+    "wof:geomhash": "1811bd311a75e806a81dac7fea50b464",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2014334293,
+        "flight_id": 2014334293
+      }
+    ],
+    "wof:id": 2014334293,
+    "wof:involves": [
+      102527513,
+      102526001,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1766160478,
+    "wof:name": "UA1402 (LGA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -73.875778,
+    40.774956
+  ],
+  "geometry": {"coordinates":[[-73.875778,40.774956],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
