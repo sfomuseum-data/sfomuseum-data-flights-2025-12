@@ -1,0 +1,72 @@
+{
+  "id": 2014363945,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-12-21",
+    "date:inception_upper": "2025-12-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-12-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "TK",
+    "flysfo:date": "2025-12-21",
+    "flysfo:estimated_timestamp": 1766352300,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "TK260",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IST",
+    "flysfo:scheduled_timestamp": 1766352300,
+    "flysfo:timestamp": 1766352300,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,28.727778,41.262222",
+    "geom:latitude": 39.440106,
+    "geom:longitude": -46.8215825,
+    "iata:airline": "TK",
+    "icao:airline": "THY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285391,
+    "sfomuseum:arrival_id": 1779770747,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20251221-D-THY-260",
+    "sfomuseum:flight_number": [
+      "THY260",
+      "TK260"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1766420119,
+    "wof:geomhash": "a6a2bfb09ffab4e8f937cae1c7a9329e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2014363945,
+        "flight_id": 2014363945
+      }
+    ],
+    "wof:id": 2014363945,
+    "wof:involves": [
+      1779770747,
+      102527513,
+      1159285391,
+      -1
+    ],
+    "wof:lastmodified": 1766420119,
+    "wof:name": "TK260 (SFO-IST)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    28.727778,
+    41.262222
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[28.727778,41.262222]],"type":"MultiPoint"}
+}
