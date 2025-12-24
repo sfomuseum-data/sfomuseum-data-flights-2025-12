@@ -2,10 +2,12 @@
   "id": 2014381487,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-12-23",
-    "date:inception_upper": "2025-12-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-12-23",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2025-12-24",
+    "date:inception_upper": "2025-12-24",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2025-12-23T17:17:26-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:base_flight_id": "20251223-D-ANZ-9190",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N21108",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102527513,
       1159285413,
       1947304491,
-      1159283697
+      1159283697,
+      1159289939
     ],
-    "wof:lastmodified": 1766593020,
+    "wof:lastmodified": 1766593120,
     "wof:name": "UA512 (SFO-IAH)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
